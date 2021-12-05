@@ -1,7 +1,7 @@
 package com.zefrocan.ipldashboard.batch.config;
 
-import com.zefrocan.ipldashboard.model.Match;
 import com.zefrocan.ipldashboard.batch.model.MatchFeedData;
+import com.zefrocan.ipldashboard.model.Match;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.Job;

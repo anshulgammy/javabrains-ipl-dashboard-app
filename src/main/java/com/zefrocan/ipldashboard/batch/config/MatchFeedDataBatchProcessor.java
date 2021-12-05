@@ -1,7 +1,7 @@
 package com.zefrocan.ipldashboard.batch.config;
 
-import com.zefrocan.ipldashboard.model.Match;
 import com.zefrocan.ipldashboard.batch.model.MatchFeedData;
+import com.zefrocan.ipldashboard.model.Match;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
